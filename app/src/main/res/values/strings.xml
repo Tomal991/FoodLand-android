@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FoodLand</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Burger"> Among all burgers Hamburger is best in terms of quality and taste also comes with lot of variety.
+    Regular Price for each HamBurger is 10 $ .We offer various discount offer.Check them now.</string>
+    <string name="Pizza">We are offering best pizzas in towns with lots of variety and flavours.
+    Regular Price for extra large pizza(12 inch) is 20 $ .We offer various discount offer.Buy them hurry before they finish.</string>
+    <string name="Kacchi">Dhakaya kacchi is known best for its traditional kacchi biriyani.It is as mouth-watering as it gets.Per plate is 5$.Buy them Now.</string>
+</resources>
